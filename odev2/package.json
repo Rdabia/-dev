@@ -1,0 +1,24 @@
+{
+  "name": "odev2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start": "node app.js",
+    "devStart": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+  
+  
+}
