@@ -1,3 +1,0 @@
-Açıkçası bu ödevde diğerlerine nazaran bayağı bi zorlandım, başarılı dönütler alamadım kendi yaptıklarımdan. Bu sebeple copilota istenilenlere göre bir kod yazdırdım ve üzerinden anlamaya çalıştım sadece. 
-Anladıklarımı da yazmaya çalıştım her dosya üzerine.
-Elimden geleni yaptım...........
